@@ -1,4 +1,4 @@
 #!/bin/sh
 
 # Start Tinyproxy
-tinyproxy -c tinyproxy.conf -d
+tinyproxy -c /proxy/tinyproxy.conf -d
