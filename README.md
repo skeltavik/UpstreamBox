@@ -1,6 +1,9 @@
 # UpstreamBox
 UpstreamBox is an Alpine Linux based Docker container that acts as a transparent proxy and can be used as a jumpbox to access domains which are only accessible via VPN. It currently supports OpenVPN and allows you to set the listening port using an environment variable.
 
+## WIP
+Currently not functional!
+
 ## Features
 - Minimal [Alpine](https://hub.docker.com/_/alpine) Linux base image
 - [Tinyproxy](https://tinyproxy.github.io/)-based transparent proxy
